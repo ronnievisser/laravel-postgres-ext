@@ -11,7 +11,7 @@ This project was inspired by features PostgreSQL supports and Laravel does not. 
 
 ## Installation
 
-1. Run `composer require RonnieVisser/laravel-postgres-ext` to install this package.
+1. Run `composer require ronnievisser/laravel-postgres-ext` to install this package.
 2. Change database service provider from original `Illuminate\Database\DatabaseServiceProvider::class` to `RonnieVisser\Database\DatabaseServiceProvider::class`.
 3. Models should extend `RonnieVisser\Database\Eloquent\Model` instead of `Illuminate\Database\Eloquent\Model`.
 
