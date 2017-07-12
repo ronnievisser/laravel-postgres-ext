@@ -1,11 +1,11 @@
 <?php
 
-namespace RonnieVisser\Database;
+namespace RonnieVisser\Postgres\Database;
 
 use Illuminate\Database\PostgresConnection as BasePostgresConnection;
-use RonnieVisser\Database\Schema\PostgresBuilder;
-use RonnieVisser\Database\Query\Grammars\PostgresGrammar as QueryGrammar;
-use RonnieVisser\Database\Schema\Grammars\PostgresGrammar as SchemaGrammar;
+use RonnieVisser\Postgres\Database\Schema\PostgresBuilder;
+use RonnieVisser\Postgres\Database\Query\Grammars\PostgresGrammar as QueryGrammar;
+use RonnieVisser\Postgres\Database\Schema\Grammars\PostgresGrammar as SchemaGrammar;
 
 class PostgresConnection extends BasePostgresConnection
 {

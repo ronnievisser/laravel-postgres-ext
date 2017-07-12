@@ -1,6 +1,6 @@
 <?php
 
-namespace RonnieVisser\Database\Schema;
+namespace RonnieVisser\Postgres\Database\Schema;
 
 use Illuminate\Database\Schema\Blueprint as BaseBlueprint;
 

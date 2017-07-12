@@ -1,9 +1,9 @@
 <?php
 
-namespace RonnieVisser\Database\Eloquent;
+namespace RonnieVisser\Postgres\Database\Eloquent;
 
 use Illuminate\Database\Eloquent\Model as BaseModel;
-use RonnieVisser\Database\Query\Builder;
+use RonnieVisser\Postgres\Database\Query\Builder;
 
 abstract class Model extends BaseModel
 {

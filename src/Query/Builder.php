@@ -1,6 +1,6 @@
 <?php
 
-namespace RonnieVisser\Database\Query;
+namespace RonnieVisser\Postgres\Database\Query;
 
 use Illuminate\Database\Query\Builder as BaseBuilder;
 
