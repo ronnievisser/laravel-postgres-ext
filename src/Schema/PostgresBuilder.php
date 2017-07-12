@@ -1,6 +1,6 @@
 <?php
 
-namespace RonnieVisser\Postgres\Database\Schema;
+namespace RonnieVisser\Postgres\Schema;
 
 use Illuminate\Database\Schema\PostgresBuilder as BasePostgresBuilder;
 

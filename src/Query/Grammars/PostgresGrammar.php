@@ -1,11 +1,11 @@
 <?php
 
-namespace RonnieVisser\Postgres\Database\Query\Grammars;
+namespace RonnieVisser\Postgres\Query\Grammars;
 
 use Illuminate\Database\Query\Grammars\PostgresGrammar as BasePostgresGrammar;
 use Illuminate\Database\Query\Builder as BaseBuilder;
 
-use RonnieVisser\Postgres\Database\Query\Builder;
+use RonnieVisser\Postgres\Query\Builder;
 
 class PostgresGrammar extends BasePostgresGrammar
 {

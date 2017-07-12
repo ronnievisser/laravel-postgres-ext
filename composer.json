@@ -18,12 +18,12 @@
     },
     "autoload": {
         "psr-4": {
-            "YuryKabanov\\Database\\": "src/"
+            "RonnieVisser\\Postgres\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "YuryKabanov\\Database\\": "tests/"
+            "RonnieVisser\\Postgres\\": "tests/"
         }
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace RonnieVisser\Postgres\Database\Schema\Grammars;
+namespace RonnieVisser\Postgres\Schema\Grammars;
 
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Schema\Grammars\PostgresGrammar as BasePostgresGrammar;

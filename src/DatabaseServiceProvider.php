@@ -1,8 +1,8 @@
 <?php
 
-namespace RonnieVisser\Postgres\Database;
+namespace RonnieVisser\Postgres;
 
-use RonnieVisser\Postgres\Database\Connectors\ConnectionFactory;
+use RonnieVisser\Postgres\Connectors\ConnectionFactory;
 use Illuminate\Database\DatabaseServiceProvider as BaseDatabaseServiceProvider;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\DatabaseManager;

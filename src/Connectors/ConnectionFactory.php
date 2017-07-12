@@ -1,8 +1,8 @@
 <?php
 
-namespace RonnieVisser\Postgres\Database\Connectors;
+namespace RonnieVisser\Postgres\Connectors;
 
-use RonnieVisser\Postgres\Database\PostgresConnection;
+use RonnieVisser\Postgres\PostgresConnection;
 use Illuminate\Database\Connectors\ConnectionFactory as BaseConnectionFactory;
 
 class ConnectionFactory extends BaseConnectionFactory
