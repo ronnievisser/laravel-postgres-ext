@@ -1,10 +1,10 @@
 {
-    "name": "yurykabanov/laravel-postgres-ext",
+    "name": "RonnieVisser/laravel-postgres-ext",
     "description": "Extended PostgreSQL driver for Laravel 5.x",
     "authors": [
         {
-            "name": "Yury Kabanov",
-            "email": "yury.kabanov@gmail.com"
+            "name": "Ronnie Visser",
+            "email": "ronsterdj@gmail.com"
         }
     ],
     "license": "MIT",
